@@ -88,9 +88,9 @@ This is the result of the coding, which estimates the onset and cessation of the
 <br/>
 
 <p align="center">
-<img src="https://drive.google.com/uc?id=19NKxz2FuQN3oafj5fG1FraG1CwrW8t5v"/>
-<img src="https://drive.google.com/uc?id=1tBEFPTBu9NUrIWTYWNejIp_uyuKzLVdh"/>
-<br />
+  <img src="https://drive.google.com/uc?id=19NKxz2FuQN3oafj5fG1FraG1CwrW8t5v" width="40%" />
+  <img src="https://drive.google.com/uc?id=1tBEFPTBu9NUrIWTYWNejIp_uyuKzLVdh" width="40%" />
+</p>
 
 <p align="left">
 Reference: Hamada JL, Yamanaka MD, Matsumoto J, Fukao S, Winarso PA, Sribimawati T. 2002. Spatial and Temporal Variations of the Rainy Season over Indonesia and their Link to ENSO. Journal of the Meteorological Society of Japan. 80: 285-310.<br/>
