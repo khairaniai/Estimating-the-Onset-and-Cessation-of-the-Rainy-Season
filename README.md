@@ -29,7 +29,7 @@ In this project, I estimated the onset and cessation of the rainy season in the 
 <h2>Program walk-through:</h2>
 
 <p align="left">
-The prediction of the onset of the rainy season using daily rainfall data can be performed using various methods, one of which is the pentad method. This method divides the daily rainfall data within a year into five-day accumulations, resulting in 73 pentads per year (Rahim et al., 2015). The pentad method used can indicate shifts in the onset of the rainy season, which can then be related to the influence of ENSO events, particularly during El Niño and La Niña years (Hamada et al., 2002).
+The prediction of the onset of the rainy season using daily rainfall data can be performed using various methods, one of which is the pentad method. This method divides the daily rainfall data within a year into five-day accumulations, resulting in 73 pentads per year. The pentad method used can indicate shifts in the onset of the rainy season, which can then be related to the influence of ENSO events, particularly during El Niño and La Niña years (Hamada et al., 2002).
 <br/>
   
 <h3>Data Management and Calculation</h3>
